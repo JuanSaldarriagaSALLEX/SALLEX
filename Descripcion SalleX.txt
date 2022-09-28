@@ -1,0 +1,1 @@
+Nuestro proyecto es una app destinada a la comunidad educativa del colegio la salle de campoamor. En esta app se brindará un catálogo de productos de cada tienda dentro de la institución (papelería, fruteria y cafeteria) con el fin de agilizar largas filas, también brindara información importante sobre novedades diarias o semanales.
